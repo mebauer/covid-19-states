@@ -1,0 +1,55 @@
+state,date,state,fips,cases,deaths
+Virgin Islands,2020-03-26,Virgin Islands,78,17,0
+South Dakota,2020-03-26,South Dakota,46,46,1
+Guam,2020-03-26,Guam,66,49,1
+Wyoming,2020-03-26,Wyoming,56,56,0
+North Dakota,2020-03-26,North Dakota,38,58,0
+Puerto Rico,2020-03-26,Puerto Rico,72,64,2
+West Virginia,2020-03-26,West Virginia,54,76,0
+Montana,2020-03-26,Montana,30,90,0
+Nebraska,2020-03-26,Nebraska,31,92,0
+Alaska,2020-03-26,Alaska,2,102,0
+Hawaii,2020-03-26,Hawaii,15,106,0
+New Mexico,2020-03-26,New Mexico,35,136,1
+Delaware,2020-03-26,Delaware,10,143,1
+Maine,2020-03-26,Maine,23,155,0
+New Hampshire,2020-03-26,New Hampshire,33,158,1
+Vermont,2020-03-26,Vermont,50,158,9
+Rhode Island,2020-03-26,Rhode Island,44,165,0
+Kansas,2020-03-26,Kansas,20,171,3
+Iowa,2020-03-26,Iowa,19,179,1
+Idaho,2020-03-26,Idaho,16,189,3
+Oklahoma,2020-03-26,Oklahoma,40,248,7
+Kentucky,2020-03-26,Kentucky,21,248,5
+District of Columbia,2020-03-26,District of Columbia,11,267,3
+Oregon,2020-03-26,Oregon,41,316,11
+Minnesota,2020-03-26,Minnesota,27,346,2
+Arkansas,2020-03-26,Arkansas,5,351,3
+Utah,2020-03-26,Utah,49,402,1
+South Carolina,2020-03-26,South Carolina,45,456,9
+Mississippi,2020-03-26,Mississippi,28,487,6
+Missouri,2020-03-26,Missouri,29,507,8
+Arizona,2020-03-26,Arizona,4,508,8
+Nevada,2020-03-26,Nevada,32,535,10
+Alabama,2020-03-26,Alabama,1,538,3
+Maryland,2020-03-26,Maryland,24,581,4
+Virginia,2020-03-26,Virginia,51,604,14
+North Carolina,2020-03-26,North Carolina,37,638,2
+Indiana,2020-03-26,Indiana,18,656,18
+Wisconsin,2020-03-26,Wisconsin,55,754,10
+Ohio,2020-03-26,Ohio,39,867,15
+Tennessee,2020-03-26,Tennessee,47,981,3
+Connecticut,2020-03-26,Connecticut,9,1012,21
+Colorado,2020-03-26,Colorado,8,1432,24
+Texas,2020-03-26,Texas,48,1543,21
+Georgia,2020-03-26,Georgia,13,1643,56
+Pennsylvania,2020-03-26,Pennsylvania,42,1690,16
+Louisiana,2020-03-26,Louisiana,22,2305,83
+Massachusetts,2020-03-26,Massachusetts,25,2417,25
+Florida,2020-03-26,Florida,12,2477,29
+Illinois,2020-03-26,Illinois,17,2538,26
+Michigan,2020-03-26,Michigan,26,2878,63
+Washington,2020-03-26,Washington,53,3208,151
+California,2020-03-26,California,6,4060,82
+New Jersey,2020-03-26,New Jersey,34,6876,81
+New York,2020-03-26,New York,36,38987,432
