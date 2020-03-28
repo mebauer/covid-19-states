@@ -3,10 +3,11 @@
 *Author: Mark Bauer*  
 *Date: March 28, 2020*
 
-The New York Times Github Data [Repository](https://github.com/nytimes/covid-19-data).
-The New York Time [News Article](https://www.nytimes.com/article/coronavirus-county-data-us.html).
-The New York Times COVID-19 US Map: [https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html] (https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html).
-The New York Times COVID-19 Global Map: [https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html] (https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html).
+The New York Times Github Data [Repository](https://github.com/nytimes/covid-19-data).   
+The New York Time [News Article](https://www.nytimes.com/article/coronavirus-county-data-us.html).  
+The New York Times COVID-19 US Map: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html.   
+The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html.  
+
 
 
 ![numer of cases linear](figures/nyt-covid-19-data-linear-032720.png)
