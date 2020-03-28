@@ -1,4 +1,4 @@
-# Analysis of COVID-19 data from the New York Times
+# Analysis of COVID-19 Data from The New York Times
 
 *Author: Mark Bauer*  
 *Date: March 28, 2020*
