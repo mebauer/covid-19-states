@@ -1,4 +1,4 @@
-**Analysis of COVID-19 data from the New York Times**
+# Analysis of COVID-19 data from the New York Times
 
 *Author: Mark Bauer*  
 *Date: March 28, 2020*
@@ -9,7 +9,7 @@ The New York Times COVID-19 US Map: https://www.nytimes.com/interactive/2020/us/
 The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html.  
 
 
-
+# Figures
 ![numer of cases linear](figures/nyt-covid-19-data-linear-032720.png)
 
 ![number of cases long](figures/nyt-covid-19-data-log-032720.png)
