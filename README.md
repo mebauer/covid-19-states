@@ -9,7 +9,7 @@ The New York Times COVID-19 US Map: https://www.nytimes.com/interactive/2020/us/
 The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html.  
 
 
-# Figures
+# Figures 
 
 ![number of cases two subplots](figures/nyt-covid-19-data-2subplots-032720.png)
 
