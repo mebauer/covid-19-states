@@ -10,20 +10,15 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 
 # Figures
-![numer of cases state horizontal](figures/nyt-covid-19-data-barh-032720.png)
 
-![numer of cases state treemap](figures/nyt-covid-19-data-treemap-032720.png)
+![number of cases two subplots](figures/nyt-covid-19-data-2subplots-032720.png)
+
+![number of cases three subplots](figures/nyt-covid-19-data-3subplots-032720.png)
+
+![numer of cases state horizontal](figures/nyt-covid-19-data-barh-032720.png)
 
 ![numer of cases state map](figures/nyt-covid-19-data-state-map-032720.png)
 
 ![numer of cases state choropleth map ](figures/nyt-covid-19-data-state-map-choro-032720.png)
 
-![numer of cases linear](figures/nyt-covid-19-data-linear-032720.png)
-
-![number of cases long](figures/nyt-covid-19-data-log-032720.png)
-
-![number of cases linear and long](figures/nyt-covid-19-data-overlay-032720.png)
-
-![number of cases two subplots](figures/nyt-covid-19-data-2subplots-032720.png)
-
-![number of cases three subplots](figures/nyt-covid-19-data-3subplots-032720.png)
+![numer of cases state treemap](figures/nyt-covid-19-data-treemap-032720.png)
