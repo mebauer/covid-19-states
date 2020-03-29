@@ -16,6 +16,8 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 ![numer of cases state map](figures/nyt-covid-19-data-state-map-032720.png)
 
+![numer of cases state choropleth map ](figures/nyt-covid-19-data-state-map-choro-032720.png)
+
 ![numer of cases linear](figures/nyt-covid-19-data-linear-032720.png)
 
 ![number of cases long](figures/nyt-covid-19-data-log-032720.png)
