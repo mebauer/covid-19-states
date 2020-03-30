@@ -18,39 +18,39 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 |    | date       | state         |   fips | cases   |   deaths |
 |---:|:-----------|:--------------|-------:|--------:|---------:|
-|  0 | 2020-03-28 | New York      |     36 | 53,363  |      782 |
-|  1 | 2020-03-28 | New Jersey    |     34 | 11,124  |      140 |
-|  2 | 2020-03-28 | California    |      6 | 5,565   |      121 |
-|  3 | 2020-03-28 | Michigan      |     26 | 4,635   |      111 |
-|  4 | 2020-03-28 | Washington    |     53 | 4,311   |      191 |
-|  5 | 2020-03-28 | Massachusetts |     25 | 4,257   |       44 |
-|  6 | 2020-03-28 | Florida       |     12 | 4,038   |       56 |
-|  7 | 2020-03-28 | Illinois      |     17 | 3,547   |       50 |
-|  8 | 2020-03-28 | Louisiana     |     22 | 3,315   |      137 |
-|  9 | 2020-03-28 | Pennsylvania  |     42 | 2,815   |       35 |
+|  0 | 2020-03-29 | New York      |     36 | 59,568  |      965 |
+|  1 | 2020-03-29 | New Jersey    |     34 | 13,386  |      161 |
+|  2 | 2020-03-29 | California    |      6 | 6,266   |      130 |
+|  3 | 2020-03-29 | Michigan      |     26 | 5,486   |      132 |
+|  4 | 2020-03-29 | Massachusetts |     25 | 4,955   |       48 |
+|  5 | 2020-03-29 | Florida       |     12 | 4,942   |       59 |
+|  6 | 2020-03-29 | Washington    |     53 | 4,896   |      207 |
+|  7 | 2020-03-29 | Illinois      |     17 | 4,613   |       70 |
+|  8 | 2020-03-29 | Louisiana     |     22 | 3,540   |      152 |
+|  9 | 2020-03-29 | Pennsylvania  |     42 | 3,441   |       40 |
 
 # Figures
 
-![number of cases linear](figures/nyt-covid-19-data-linear-032720.png)
+![number of cases linear](figures/nyt-covid-19-data-linear.png)
 
-![number of cases log](figures/nyt-covid-19-data-log-032720.png)
+![number of cases log](figures/nyt-covid-19-data-log.png)
 
-![number of cases timeseries](figures/nyt-covid-19-state-timeseries-032720.png)
+![number of cases timeseries](figures/nyt-covid-19-state-timeseries.png)
 
-![number of cases timeseries log](figures/nyt-covid-19-state-timeseries-log-032720.png)
+![number of cases timeseries log](figures/nyt-covid-19-state-timeseries-log.png)
 
-![number of cases timeseries first case](figures/nyt-covid-19-state-timeseries-first-case-032720.png)
+![number of cases timeseries first case](figures/nyt-covid-19-state-timeseries-first-case.png)
 
-![number of cases timeseries first case log](figures/nyt-covid-19-state-timeseries-first-case-log-032720.png)
+![number of cases timeseries first case log](figures/nyt-covid-19-state-timeseries-first-case-log.png)
 
-![number of cases timeseries tenth case](figures/nyt-covid-19-state-timeseries-tenth-case-032720.png)
+![number of cases timeseries tenth case](figures/nyt-covid-19-state-timeseries-tenth-case.png)
 
-![number of cases timeseries tenth case log](figures/nyt-covid-19-state-timeseries-tenth-case-log-032720.png)
+![number of cases timeseries tenth case log](figures/nyt-covid-19-state-timeseries-tenth-case-log.png)
 
-![numer of cases state horizontal](figures/nyt-covid-19-data-barh-032720.png)
+![numer of cases state horizontal](figures/nyt-covid-19-data-barh.png)
 
-![numer of cases state map](figures/nyt-covid-19-data-state-map-032720.png)
+![numer of cases state map](figures/nyt-covid-19-data-state-map.png)
 
-![numer of cases state choropleth map ](figures/nyt-covid-19-data-state-map-choro-032720.png)
+![numer of cases state choropleth map ](figures/nyt-covid-19-data-state-map-choro.png)
 
-![numer of cases state treemap](figures/nyt-covid-19-data-treemap-032720.png)
+![numer of cases state treemap](figures/nyt-covid-19-data-treemap.png)
