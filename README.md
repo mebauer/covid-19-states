@@ -1,7 +1,7 @@
 # Analysis of COVID-19 Data from The New York Times
 
 *Author: Mark Bauer*  
-*Date Created: March 28, 2020*
+*Date Created: March 28, 2020*  
 *Date Updated: March 30, 2020*
 
 The New York Times Github Data [Repository](https://github.com/nytimes/covid-19-data).   
