@@ -1,7 +1,8 @@
 # Analysis of COVID-19 Data from The New York Times
 
 *Author: Mark Bauer*  
-*Date: March 28, 2020*
+*Date Created: March 28, 2020*
+*Date Updated: March 30, 2020*
 
 The New York Times Github Data [Repository](https://github.com/nytimes/covid-19-data).   
 The New York Time [News Article](https://www.nytimes.com/article/coronavirus-county-data-us.html).  
@@ -13,7 +14,7 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 # Tables
 
-**Table 1. Coronavirus (COVID-19) Cases by Top 10 States in the United States**
+**Table 1. Coronavirus (COVID-19) Cases in the United States (Top 10 States)**
 
 |    | date       | state         |   fips | cases   |   deaths |
 |---:|:-----------|:--------------|-------:|--------:|---------:|
