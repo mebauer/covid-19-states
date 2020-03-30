@@ -13,7 +13,7 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 # Tables
 
-***Table 1. Coronavirus (COVID-19) Cases by Top 10 States in the United States**
+**Table 1. Coronavirus (COVID-19) Cases by Top 10 States in the United States**
 
 |    | date       | state         |   fips | cases   |   deaths |
 |---:|:-----------|:--------------|-------:|--------:|---------:|
