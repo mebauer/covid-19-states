@@ -11,9 +11,9 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 # Figures 
 
-![number of cases two subplots](figures/nyt-covid-19-data-2subplots-032720.png)
+![number of cases linear](figures/nyt-covid-19-data-linear-032720.png)
 
-![number of cases three subplots](figures/nyt-covid-19-data-3subplots-032720.png)
+![number of cases log](figures/nyt-covid-19-data-log-032720.png)
 
 ![number of cases timeseries](figures/nyt-covid-19-state-timeseries-032720.png)
 
