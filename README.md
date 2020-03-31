@@ -2,7 +2,7 @@
 
 *Author: Mark Bauer*  
 *Date Created: March 28, 2020*  
-*Date Updated: March 30, 2020*
+*Date Updated: March 31, 2020*
 
 The New York Times Github Data Repository: https://github.com/nytimes/covid-19-data.   
 The New York Times News Article: https://www.nytimes.com/article/coronavirus-county-data-us.html.  
