@@ -27,13 +27,23 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 |  6 | 2020-03-30 | Washington    | 5,179   | 221      |
 |  7 | 2020-03-30 | Illinois      | 5,070   | 84       |
 |  8 | 2020-03-30 | Pennsylvania  | 4,156   | 48       |
-|  9 | 2020-03-30 | Louisiana     | 4,025   | 186      |
+|  9 | 2020-03-30 | Louisiana     | 4,025   | 186      |  
+
 
 # Figures
 
+## Trajectory of COVID-19 Cases in the United States
+
+![number of cases trajectory usa weekly average](figures/nyt-covid-19-usa-trajectory-weekly-plot.png)
+
 ![number of cases trajectory weekly average](figures/nyt-covid-19-state-trajectory-weekly-plot.png)
 
-![number of cases trajectory daily](figures/nyt-covid-19-state-trajectory-daily-plot.png)
+![number of cases trajectory daily](figures/nyt-covid-19-state-trajectory-daily-plot.png)    
+
+
+# Additional Figures
+
+## Time Series
 
 ![number of cases timeseries tenth case](figures/nyt-covid-19-state-timeseries-tenth-case.png)
 
@@ -49,12 +59,21 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 ![number of cases linear](figures/nyt-covid-19-data-linear.png)
 
-![number of cases log](figures/nyt-covid-19-data-log.png)
+![number of cases log](figures/nyt-covid-19-data-log.png)  
+
+
+## Bar Charts
 
 ![numer of cases state horizontal](figures/nyt-covid-19-data-barh.png)
+
+
+## Maps
 
 ![numer of cases state map](figures/nyt-covid-19-data-state-map.png)
 
 ![numer of cases state choropleth map ](figures/nyt-covid-19-data-state-map-choro.png)
+
+
+## Tree Maps
 
 ![numer of cases state treemap](figures/nyt-covid-19-data-treemap.png)
