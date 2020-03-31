@@ -35,17 +35,17 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 ![number of cases trajectory daily](figures/nyt-covid-19-state-trajectory-daily-plot.png)
 
-![number of cases timeseries](figures/nyt-covid-19-state-timeseries.png)
+![number of cases timeseries tenth case](figures/nyt-covid-19-state-timeseries-tenth-case.png)
 
-![number of cases timeseries log](figures/nyt-covid-19-state-timeseries-log.png)
+![number of cases timeseries tenth case log](figures/nyt-covid-19-state-timeseries-tenth-case-log.png)
 
 ![number of cases timeseries first case](figures/nyt-covid-19-state-timeseries-first-case.png)
 
 ![number of cases timeseries first case log](figures/nyt-covid-19-state-timeseries-first-case-log.png)
 
-![number of cases timeseries tenth case](figures/nyt-covid-19-state-timeseries-tenth-case.png)
+![number of cases timeseries](figures/nyt-covid-19-state-timeseries.png)
 
-![number of cases timeseries tenth case log](figures/nyt-covid-19-state-timeseries-tenth-case-log.png)
+![number of cases timeseries log](figures/nyt-covid-19-state-timeseries-log.png)
 
 ![number of cases linear](figures/nyt-covid-19-data-linear.png)
 
