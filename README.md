@@ -36,9 +36,11 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 ![number of cases trajectory usa weekly average](figures/nyt-covid-19-usa-trajectory-weekly-plot.png)
 
-![number of cases trajectory weekly average](figures/nyt-covid-19-state-trajectory-weekly-plot.png)
+![number of cases trajectory states weekly average](figures/nyt-covid-19-all-states-trajectory-weekly-plot-labels-xlimit-110.png)
 
-![number of cases trajectory daily](figures/nyt-covid-19-state-trajectory-daily-plot.png)    
+![number of cases trajectory states weekly average](figures/nyt-covid-19-state-trajectory-weekly-plot.png)
+
+![number of cases trajectory states daily](figures/nyt-covid-19-state-trajectory-daily-plot.png)    
 
 
 # Additional Figures
