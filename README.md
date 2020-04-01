@@ -18,16 +18,16 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 |    | date       | state         | cases   | deaths   |
 |---:|:-----------|:--------------|--------:|---------:|
-|  0 | 2020-03-30 | New York      | 67,174  | 1,224    |
-|  1 | 2020-03-30 | New Jersey    | 16,636  | 199      |
-|  2 | 2020-03-30 | California    | 7,421   | 146      |
-|  3 | 2020-03-30 | Michigan      | 6,508   | 197      |
-|  4 | 2020-03-30 | Massachusetts | 5,752   | 61       |
-|  5 | 2020-03-30 | Florida       | 5,694   | 71       |
-|  6 | 2020-03-30 | Washington    | 5,179   | 221      |
-|  7 | 2020-03-30 | Illinois      | 5,070   | 84       |
-|  8 | 2020-03-30 | Pennsylvania  | 4,156   | 48       |
-|  9 | 2020-03-30 | Louisiana     | 4,025   | 186      |  
+|  0 | 2020-03-31 | New York      | 75,832  | 1,550    |
+|  1 | 2020-03-31 | New Jersey    | 18,696  | 267      |
+|  2 | 2020-03-31 | California    | 8,582   | 183      |
+|  3 | 2020-03-31 | Michigan      | 7,630   | 264      |
+|  4 | 2020-03-31 | Florida       | 6,741   | 85       |
+|  5 | 2020-03-31 | Massachusetts | 6,620   | 89       |
+|  6 | 2020-03-31 | Illinois      | 5,994   | 107      |
+|  7 | 2020-03-31 | Washington    | 5,292   | 226      |
+|  8 | 2020-03-31 | Louisiana     | 5,237   | 240      |
+|  9 | 2020-03-31 | Pennsylvania  | 4,997   | 72       |  
 
 
 # Figures
