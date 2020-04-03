@@ -2,7 +2,7 @@
 
 *Author: Mark Bauer*  
 *Date Created: March 28, 2020*  
-*Date Updated: April 2, 2020*
+*Date Updated: April 3, 2020*
 
 The New York Times Github Data Repository: https://github.com/nytimes/covid-19-data.   
 The New York Times News Article: https://www.nytimes.com/article/coronavirus-county-data-us.html.  
@@ -37,8 +37,6 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 ![number of cases trajectory usa weekly average](figures/nyt-covid-19-usa-trajectory-weekly-plot.png)
 
 ![number of cases trajectory states weekly average](figures/nyt-covid-19-all-states-trajectory-weekly-plot-labels.png)
-
-![number of cases trajectory states weekly average](figures/nyt-covid-19-all-states-trajectory-weekly-plot-labels-xlimit.png)
 
 ![number of cases trajectory weekly average](figures/nyt-covid-19-state-trajectory-weekly-plot.png)
 
