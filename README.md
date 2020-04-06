@@ -30,30 +30,36 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 |  9 | 2020-04-05 | Washington    | 7,984   | 344      |  
 
 
+## Bar Charts
+
+![numer of cases state horizontal](figures/nyt-covid-19-data-barh.png)  
+
 # Figures
 
-## Trajectory of COVID-19 Cases
+## Number of Positive Cases per Day
 
-![number of cases trajectory usa weekly average](figures/nyt-covid-19-usa-trajectory-weekly-plot.png)
+## Growth Factory of Number of Positive Cases per Day  
 
-![number of cases trajectory states weekly average](figures/nyt-covid-19-all-states-trajectory-weekly-plot-labels.png)
+## Cumulative Number of Positive Cases  
+
+![number of cases timeseries tenth case](figures/nyt-covid-19-state-timeseries-tenth-case.png)
+
+![number of cases timeseries tenth case log](figures/nyt-covid-19-state-timeseries-tenth-case-log.png)  
+
+## Trajectory of Number of Positive Cases
 
 ![number of cases trajectory weekly average](figures/nyt-covid-19-state-trajectory-weekly-plot.png)
 
 ![number of cases trajectory daily](figures/nyt-covid-19-state-trajectory-daily-plot.png)  
 
+![number of cases trajectory usa weekly average](figures/nyt-covid-19-usa-trajectory-weekly-plot.png)
+
+![number of cases trajectory states weekly average](figures/nyt-covid-19-all-states-trajectory-weekly-plot-labels.png)  
+
 
 # Additional Figures
 
 ## Time Series
-
-![number of cases timeseries tenth case](figures/nyt-covid-19-state-timeseries-tenth-case.png)
-
-![number of cases timeseries tenth case log](figures/nyt-covid-19-state-timeseries-tenth-case-log.png)
-
-![number of cases timeseries first case](figures/nyt-covid-19-state-timeseries-first-case.png)
-
-![number of cases timeseries first case log](figures/nyt-covid-19-state-timeseries-first-case-log.png)
 
 ![number of cases timeseries](figures/nyt-covid-19-state-timeseries.png)
 
@@ -62,11 +68,6 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 ![number of cases linear](figures/nyt-covid-19-data-linear.png)
 
 ![number of cases log](figures/nyt-covid-19-data-log.png)  
-
-
-## Bar Charts
-
-![numer of cases state horizontal](figures/nyt-covid-19-data-barh.png)
 
 
 ## Maps
