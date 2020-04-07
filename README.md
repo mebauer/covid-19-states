@@ -43,7 +43,7 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 ![days since 10 daily cases top 10 weekly log](figures/10-cases-timeseries-by-state-top-10-weekly-log.png) 
 
 
-##  Growth Factor of Number of Positives Per Day
+##  Growth Factor of Number of Positives per Day
 
 ![growth factor daily cases top 10 weekly](figures/growth-factor-top-10-weekly.png)
 
@@ -52,6 +52,7 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 ## Cumulative Number of Positive Cases  
 
+### Top 10 States
 ![number of cases timeseries tenth case](figures/nyt-covid-19-state-timeseries-tenth-case.png)
 
 ![number of cases timeseries tenth case log](figures/nyt-covid-19-state-timeseries-tenth-case-log.png)  
@@ -64,23 +65,21 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 ## Trajectory of Number of Positive Cases
 
-![number of cases trajectory weekly average](figures/nyt-covid-19-state-trajectory-weekly-plot.png)
-
-![number of cases trajectory daily](figures/nyt-covid-19-state-trajectory-daily-plot.png)  
+![number of cases trajectory weekly average](figures/nyt-covid-19-state-trajectory-weekly-plot.png)   
 
 ![number of cases trajectory states weekly average](figures/nyt-covid-19-all-states-trajectory-weekly-plot-labels.png) 
 
 ![number of cases trajectory usa weekly average](figures/nyt-covid-19-usa-trajectory-weekly-plot.png)
 
 
-# Additional Figures
-
 ## Time Series
 
+### Top 10 States
 ![number of cases timeseries](figures/nyt-covid-19-state-timeseries.png)
 
 ![number of cases timeseries log](figures/nyt-covid-19-state-timeseries-log.png)
 
+### As a Country
 ![number of cases linear](figures/nyt-covid-19-data-linear.png)
 
 ![number of cases log](figures/nyt-covid-19-data-log.png)  
