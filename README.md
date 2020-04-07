@@ -36,9 +36,19 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 # Figures
 
-## Number of Positive Cases per Day
+##  Number of Positives Per Day
 
-## Growth Factory of Number of Positive Cases per Day  
+![days since 10 daily cases top 10 weekly](figures/10-cases-timeseries-by-state-top-10-weekly.png)
+
+![days since 10 daily cases top 10 weekly log](figures/10-cases-timeseries-by-state-top-10-weekly-log.png) 
+
+
+##  Growth Factor of Number of Positives Per Day
+
+![growth factor daily cases top 10 weekly](figures/growth-factor-top-10-weekly.png)
+
+![growth factor daily cases top 10 daily](figures/growth-factor-top-10-daily.png)
+
 
 ## Cumulative Number of Positive Cases  
 
@@ -52,9 +62,9 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 ![number of cases trajectory daily](figures/nyt-covid-19-state-trajectory-daily-plot.png)  
 
-![number of cases trajectory usa weekly average](figures/nyt-covid-19-usa-trajectory-weekly-plot.png)
+![number of cases trajectory states weekly average](figures/nyt-covid-19-all-states-trajectory-weekly-plot-labels.png) 
 
-![number of cases trajectory states weekly average](figures/nyt-covid-19-all-states-trajectory-weekly-plot-labels.png)  
+![number of cases trajectory usa weekly average](figures/nyt-covid-19-usa-trajectory-weekly-plot.png)
 
 
 # Additional Figures
