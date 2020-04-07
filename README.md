@@ -56,6 +56,12 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 ![number of cases timeseries tenth case log](figures/nyt-covid-19-state-timeseries-tenth-case-log.png)  
 
+### All States
+![days since 10 cases](figures/10-cases-timeseries-by-state.png)
+
+![days since 10 cases log](figures/10-cases-timeseries-by-state-log.png)
+
+
 ## Trajectory of Number of Positive Cases
 
 ![number of cases trajectory weekly average](figures/nyt-covid-19-state-trajectory-weekly-plot.png)
