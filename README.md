@@ -2,7 +2,7 @@
 
 *Author: Mark Bauer*  
 *Date Created: March 28, 2020*  
-*Date Updated: April 9, 2020*
+*Date Updated: April 10, 2020*
 
 The New York Times Github Data Repository: https://github.com/nytimes/covid-19-data.   
 The New York Times News Article: https://www.nytimes.com/article/coronavirus-county-data-us.html.  
@@ -18,16 +18,16 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 |    | date       | state         | cases   | deaths   |
 |---:|:-----------|:--------------|--------:|---------:|
-|  0 | 2020-04-08 | New York      | 149,401 | 6,268    |
-|  1 | 2020-04-08 | New Jersey    | 47,437  | 1,504    |
-|  2 | 2020-04-08 | Michigan      | 20,220  | 959      |
-|  3 | 2020-04-08 | California    | 19,043  | 506      |
-|  4 | 2020-04-08 | Louisiana     | 17,030  | 652      |
-|  5 | 2020-04-08 | Massachusetts | 16,790  | 433      |
-|  6 | 2020-04-08 | Pennsylvania  | 16,414  | 313      |
-|  7 | 2020-04-08 | Florida       | 15,690  | 322      |
-|  8 | 2020-04-08 | Illinois      | 15,078  | 464      |
-|  9 | 2020-04-08 | Georgia       | 10,204  | 370      |  
+|  0 | 2020-04-09 | New York      | 159,937 | 7,067    |
+|  1 | 2020-04-09 | New Jersey    | 51,027  | 1,700    |
+|  2 | 2020-04-09 | Michigan      | 21,375  | 1,076    |
+|  3 | 2020-04-09 | California    | 20,191  | 548      |
+|  4 | 2020-04-09 | Massachusetts | 18,941  | 503      |
+|  5 | 2020-04-09 | Pennsylvania  | 18,379  | 344      |
+|  6 | 2020-04-09 | Louisiana     | 18,283  | 702      |
+|  7 | 2020-04-09 | Florida       | 16,819  | 370      |
+|  8 | 2020-04-09 | Illinois      | 16,422  | 534      |
+|  9 | 2020-04-09 | Texas         | 11,372  | 228      |  
 
 
 ## Bar Charts
@@ -79,7 +79,7 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 ![number of cases timeseries log](figures/nyt-covid-19-state-timeseries-log.png)
 
-### As a Country
+### United States
 ![number of cases linear](figures/nyt-covid-19-data-linear.png)
 
 ![number of cases log](figures/nyt-covid-19-data-log.png)  
@@ -89,7 +89,3 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 ![numer of cases state map](figures/nyt-covid-19-data-state-map.png)
 
-
-## Tree Maps
-
-![numer of cases state treemap](figures/nyt-covid-19-data-treemap.png)
