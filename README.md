@@ -38,14 +38,26 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 ##  Number of Positives Per Day
 
+### Weekly Average
+
 ![days since 10 daily cases top 10 weekly](figures/10-cases-timeseries-by-state-top-10-weekly.png)
 
 ![days since 10 daily cases top 10 weekly log](figures/10-cases-timeseries-by-state-top-10-weekly-log.png) 
 
+### Daily
+
+![days since 10 daily cases top 10 daily](figures/10-cases-timeseries-by-state-top-10-daily.png)
+
+![days since 10 daily cases top 10 daily log](figures/10-cases-timeseries-by-state-top-10-daily-log.png)
+
 
 ##  Growth Factor of Number of Positives per Day
 
+### Weekly Average
+
 ![growth factor daily cases top 10 weekly](figures/growth-factor-top-10-weekly.png)
+
+### Daily 
 
 ![growth factor daily cases top 10 daily](figures/growth-factor-top-10-daily.png)
 
