@@ -32,7 +32,9 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 # Bar Charts
 
-![numer of cases state horizontal](figures/nyt-covid-19-data-barh.png)  
+![numer of cases state horizontal](figures/nyt-covid-19-data-barh.png) 
+
+![epi curve](figures/epi_curve.png)   
 
 # Figures
 
