@@ -1,56 +1,56 @@
 state,date,state,fips,cases,deaths
-Northern Mariana Islands,2020-04-26,Northern Mariana Islands,69,14,2
-Virgin Islands,2020-04-26,Virgin Islands,78,57,4
-Alaska,2020-04-26,Alaska,2,339,7
-Wyoming,2020-04-26,Wyoming,56,371,7
-Montana,2020-04-26,Montana,30,448,14
-Hawaii,2020-04-26,Hawaii,15,599,14
-Vermont,2020-04-26,Vermont,50,851,46
-North Dakota,2020-04-26,North Dakota,38,867,17
-Guam,2020-04-26,Guam,66,993,6
-Maine,2020-04-26,Maine,23,1015,50
-West Virginia,2020-04-26,West Virginia,54,1053,34
-Puerto Rico,2020-04-26,Puerto Rico,72,1371,53
-Idaho,2020-04-26,Idaho,16,1768,56
-New Hampshire,2020-04-26,New Hampshire,33,1864,60
-South Dakota,2020-04-26,South Dakota,46,2213,11
-Oregon,2020-04-26,Oregon,41,2311,91
-New Mexico,2020-04-26,New Mexico,35,2728,99
-Arkansas,2020-04-26,Arkansas,5,3001,50
-Nebraska,2020-04-26,Nebraska,31,3126,56
-Kansas,2020-04-26,Kansas,20,3188,120
-Oklahoma,2020-04-26,Oklahoma,40,3253,195
-Minnesota,2020-04-26,Minnesota,27,3602,272
-District of Columbia,2020-04-26,District of Columbia,11,3841,178
-Delaware,2020-04-26,Delaware,10,4034,120
-Kentucky,2020-04-26,Kentucky,21,4074,211
-Utah,2020-04-26,Utah,49,4123,41
-Nevada,2020-04-26,Nevada,32,4638,206
-South Carolina,2020-04-26,South Carolina,45,5490,174
-Iowa,2020-04-26,Iowa,19,5491,118
-Mississippi,2020-04-26,Mississippi,28,5911,227
-Wisconsin,2020-04-26,Wisconsin,55,5911,274
-Alabama,2020-04-26,Alabama,1,6421,219
-Arizona,2020-04-26,Arizona,4,6526,277
-Missouri,2020-04-26,Missouri,29,6997,282
-Rhode Island,2020-04-26,Rhode Island,44,7439,226
-North Carolina,2020-04-26,North Carolina,37,8830,309
-Tennessee,2020-04-26,Tennessee,47,9493,190
-Virginia,2020-04-26,Virginia,51,12970,448
-Colorado,2020-04-26,Colorado,8,13441,678
-Washington,2020-04-26,Washington,53,13663,757
-Indiana,2020-04-26,Indiana,18,15012,813
-Ohio,2020-04-26,Ohio,39,15963,728
-Maryland,2020-04-26,Maryland,24,18581,827
-Georgia,2020-04-26,Georgia,13,22459,907
-Texas,2020-04-26,Texas,48,25206,676
-Connecticut,2020-04-26,Connecticut,9,25269,1925
-Louisiana,2020-04-26,Louisiana,22,26773,1670
-Florida,2020-04-26,Florida,12,31520,1073
-Michigan,2020-04-26,Michigan,26,37751,3314
-Pennsylvania,2020-04-26,Pennsylvania,42,42709,1871
-California,2020-04-26,California,6,43691,1716
-Illinois,2020-04-26,Illinois,17,43903,1943
-Massachusetts,2020-04-26,Massachusetts,25,54938,2899
-New Jersey,2020-04-26,New Jersey,34,109038,5938
-New York,2020-04-26,New York,36,288076,16966
+Northern Mariana Islands,2020-04-27,Northern Mariana Islands,69,14,2
+Virgin Islands,2020-04-27,Virgin Islands,78,59,4
+Alaska,2020-04-27,Alaska,2,343,7
+Wyoming,2020-04-27,Wyoming,56,389,7
+Montana,2020-04-27,Montana,30,449,14
+Hawaii,2020-04-27,Hawaii,15,600,16
+Vermont,2020-04-27,Vermont,50,855,47
+North Dakota,2020-04-27,North Dakota,38,942,19
+Guam,2020-04-27,Guam,66,1000,6
+Maine,2020-04-27,Maine,23,1023,51
+West Virginia,2020-04-27,West Virginia,54,1077,37
+Puerto Rico,2020-04-27,Puerto Rico,72,1388,53
+Idaho,2020-04-27,Idaho,16,1785,58
+New Hampshire,2020-04-27,New Hampshire,33,1938,60
+South Dakota,2020-04-27,South Dakota,46,2246,11
+Oregon,2020-04-27,Oregon,41,2354,92
+New Mexico,2020-04-27,New Mexico,35,2825,104
+Arkansas,2020-04-27,Arkansas,5,3069,51
+Oklahoma,2020-04-27,Oklahoma,40,3280,197
+Kansas,2020-04-27,Kansas,20,3393,126
+Nebraska,2020-04-27,Nebraska,31,3487,55
+Minnesota,2020-04-27,Minnesota,27,3816,286
+District of Columbia,2020-04-27,District of Columbia,11,3892,185
+Kentucky,2020-04-27,Kentucky,21,4146,216
+Delaware,2020-04-27,Delaware,10,4162,125
+Utah,2020-04-27,Utah,49,4236,41
+Nevada,2020-04-27,Nevada,32,4708,219
+South Carolina,2020-04-27,South Carolina,45,5613,177
+Iowa,2020-04-27,Iowa,19,5868,127
+Wisconsin,2020-04-27,Wisconsin,55,6081,281
+Mississippi,2020-04-27,Mississippi,28,6094,229
+Alabama,2020-04-27,Alabama,1,6539,228
+Arizona,2020-04-27,Arizona,4,6716,277
+Missouri,2020-04-27,Missouri,29,7171,296
+Rhode Island,2020-04-27,Rhode Island,44,7708,233
+North Carolina,2020-04-27,North Carolina,37,9142,331
+Tennessee,2020-04-27,Tennessee,47,9796,192
+Virginia,2020-04-27,Virginia,51,13535,458
+Colorado,2020-04-27,Colorado,8,13804,705
+Washington,2020-04-27,Washington,53,13864,771
+Indiana,2020-04-27,Indiana,18,15961,844
+Ohio,2020-04-27,Ohio,39,16325,753
+Maryland,2020-04-27,Maryland,24,19487,858
+Georgia,2020-04-27,Georgia,13,23229,981
+Texas,2020-04-27,Texas,48,25960,699
+Connecticut,2020-04-27,Connecticut,9,25997,2012
+Louisiana,2020-04-27,Louisiana,22,27068,1697
+Florida,2020-04-27,Florida,12,32130,1087
+Michigan,2020-04-27,Michigan,26,38190,3406
+Pennsylvania,2020-04-27,Pennsylvania,42,43189,1946
+California,2020-04-27,California,6,45187,1800
+Illinois,2020-04-27,Illinois,17,45883,1992
+Massachusetts,2020-04-27,Massachusetts,25,56462,3003
+New Jersey,2020-04-27,New Jersey,34,111188,6044
+New York,2020-04-27,New York,36,292027,17303
