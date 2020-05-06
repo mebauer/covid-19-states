@@ -2,7 +2,7 @@
 
 *Author: Mark Bauer*  
 *Date Created: March 28, 2020*  
-*Date Updated: May 1, 2020*
+*Date Updated: May 6, 2020*
 
 The New York Times Github Data Repository: https://github.com/nytimes/covid-19-data.   
 The New York Times News Article: https://www.nytimes.com/article/coronavirus-county-data-us.html.  
@@ -18,16 +18,16 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 |    | date       | state         | cases   | deaths   |
 |---:|:-----------|:--------------|--------:|---------:|
-|  0 | 2020-04-30 | New York      | 304,401 | 18,321   |
-|  1 | 2020-04-30 | New Jersey    | 118,652 | 7,228    |
-|  2 | 2020-04-30 | Massachusetts | 62,205  | 3,562    |
-|  3 | 2020-04-30 | Illinois      | 52,918  | 2,361    |
-|  4 | 2020-04-30 | California    | 50,470  | 2,057    |
-|  5 | 2020-04-30 | Pennsylvania  | 48,224  | 2,575    |
-|  6 | 2020-04-30 | Michigan      | 41,347  | 3,788    |
-|  7 | 2020-04-30 | Florida       | 33,683  | 1,267    |
-|  8 | 2020-04-30 | Texas         | 29,072  | 828      |
-|  9 | 2020-04-30 | Louisiana     | 28,001  | 1,862    |
+|  0 | 2020-05-05 | New York      | 321,276 | 19,645   |
+|  1 | 2020-05-05 | New Jersey    | 130,593 | 8,244    |
+|  2 | 2020-05-05 | Massachusetts | 70,271  | 4,212    |
+|  3 | 2020-05-05 | Illinois      | 65,889  | 2,843    |
+|  4 | 2020-05-05 | California    | 58,848  | 2,386    |
+|  5 | 2020-05-05 | Pennsylvania  | 53,967  | 3,206    |
+|  6 | 2020-05-05 | Michigan      | 44,333  | 4,179    |
+|  7 | 2020-05-05 | Florida       | 37,431  | 1,470    |
+|  8 | 2020-05-05 | Texas         | 34,283  | 955      |
+|  9 | 2020-05-05 | Connecticut   | 30,621  | 2,633    |
 
 # Bar Charts
 
